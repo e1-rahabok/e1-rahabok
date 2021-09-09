@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @e1-rahabok
-- 👀 I’m interested in permaculture
+- 👀 I’m interested in permaculture, solar, natural pond
 - 🌱 I’m currently learning home renovation
 - 💞️ I’m looking to collaborate on www.vmwareopsguide.com
 - 📫 How to reach me: e1@vmware.com
