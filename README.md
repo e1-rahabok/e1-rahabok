@@ -8,20 +8,20 @@
 
 | Name | Tags | Last Updated |
 |------|------|--------------|
-| VCF-vCommunity-Adapter | vsphere, broadcom, vmware-private-cloud | 2026-10-30 |
-| private-cloud-explained | private-cloud | 2026-10-30 |
-| Observability-Linux | | 2026-10-30 |
-| Observability-NSX | | 2026-10-29 |
-| Observability-vSAN | | 2026-10-29 |
-| Observability-VKS | | 2026-10-29 |
-| Observability-Windows | | 2026-10-29 |
-| VMW-Executive-Dashboard | | 2026-10-29 |
+| VCF-vCommunity-Adapter | VMware, broadcom, vmware-private-cloud | 2026-10-30 |
+| private-cloud-explained | vmware-private-cloud | 2026-10-30 |
+| Observability-Linux | VMware | 2026-10-30 |
+| Observability-NSX | VMware | 2026-10-29 |
+| Observability-vSAN | VMware | 2026-10-29 |
+| Observability-VKS | VMware | 2026-10-29 |
+| Observability-Windows | VMware | 2026-10-29 |
+| VMW-Executive-Dashboard | VMware | 2026-10-29 |
 | PowerManager | dell, laptop | 2026-10-28 |
-| Books-to-PDF | | 2026-10-25 |
-| VMW-Alerts-Overhaul | | 2026-10-25 |
-| VMW-MAS-AI-Guidelines | | 2026-10-21 |
-| VMW-Federated-VCF-Operations | | 2026-10-16 |
-| Web-App-Template | | 2026-10-11 |
+| Books-to-PDF | isvara.io | 2026-10-25 |
+| VMW-Alerts-Overhaul | VMware | 2026-10-25 |
+| VMW-MAS-AI-Guidelines | VMware | 2026-10-21 |
+| VMW-Federated-VCF-Operations | VMware | 2026-10-16 |
+| Web-App-Template | vmware-private-cloud | 2026-10-11 |
 | e1-rahabok | config, github-config | 2026-10-10 |
 | desktop-tutorial (private) | | 2026-09-18 |
 | private-cops | | 2026-06-08 |
