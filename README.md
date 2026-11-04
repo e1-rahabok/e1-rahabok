@@ -11,6 +11,7 @@
 | [VCF-vCommunity-Adapter](https://github.com/e1-rahabok/VCF-vCommunity-Adapter) | VMware, broadcom, vmware-private-cloud | 2026-10-30 |
 | [private-cloud-explained](https://github.com/e1-rahabok/private-cloud-explained) | vmware-private-cloud | 2026-10-30 |
 | [Observability-Linux](https://github.com/e1-rahabok/Observability-Linux) | VMware | 2026-10-30 |
+| [Observability-vSphere](https://github.com/e1-rahabok/Observability-vSphere) | VMware | 2026-10-30 |
 | [Observability-NSX](https://github.com/e1-rahabok/Observability-NSX) | VMware | 2026-10-29 |
 | [Observability-vSAN](https://github.com/e1-rahabok/Observability-vSAN) | VMware | 2026-10-29 |
 | [Observability-VKS](https://github.com/e1-rahabok/Observability-VKS) | VMware | 2026-10-29 |
@@ -19,15 +20,17 @@
 | [VMW-Alerts-Overhaul](https://github.com/e1-rahabok/VMW-Alerts-Overhaul) | VMware | 2026-10-25 |
 | [VMW-MAS-AI-Guidelines](https://github.com/e1-rahabok/VMW-MAS-AI-Guidelines) | VMware | 2026-10-21 |
 | [VMW-Federated-VCF-Operations](https://github.com/e1-rahabok/VMW-Federated-VCF-Operations) | VMware | 2026-10-16 |
-| [e1-rahabok](https://github.com/e1-rahabok/e1-rahabok) | config, github-config | 2026-10-10 |
 
 ## Non VMware Repositories
 
 | Name | Tags | Last Updated |
 |------|------|--------------|
+| [isvara-2](https://github.com/e1-rahabok/isvara-2) | isvara.io | 2026-11-04 |
+| [personal-website](https://github.com/e1-rahabok/personal-website) | | 2026-11-04 |
 | [PowerManager](https://github.com/e1-rahabok/PowerManager) | dell, laptop | 2026-10-28 |
 | [Books-to-PDF](https://github.com/e1-rahabok/Books-to-PDF) | isvara.io | 2026-10-25 |
 | [Web-App-Template](https://github.com/e1-rahabok/Web-App-Template) | vmware-private-cloud | 2026-10-11 |
+| [e1-rahabok](https://github.com/e1-rahabok/e1-rahabok) | config, github-config | 2026-10-10 |
 | [private-cops](https://github.com/e1-rahabok/private-cops) | | 2026-06-08 |
 | [Troubleshooting-Flow](https://github.com/e1-rahabok/Troubleshooting-Flow) | | 2026-03-27 |
 | [Capacity-Planner](https://github.com/e1-rahabok/Capacity-Planner) | | 2026-03-23 |
