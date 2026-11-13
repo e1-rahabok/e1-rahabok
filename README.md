@@ -6,20 +6,20 @@
 
 ## VMware Repositories
 
-| Name | Tags | Last Updated |
-|------|------|--------------|
-| [VCF-vCommunity-Adapter](https://github.com/e1-rahabok/VCF-vCommunity-Adapter) | VMware, broadcom, vmware-private-cloud | 2026-10-30 |
-| [private-cloud-explained](https://github.com/e1-rahabok/private-cloud-explained) | vmware-private-cloud | 2026-10-30 |
-| [Observability-Linux](https://github.com/e1-rahabok/Observability-Linux) | VMware | 2026-10-30 |
-| [Observability-vSphere](https://github.com/e1-rahabok/Observability-vSphere) | VMware | 2026-10-30 |
-| [Observability-NSX](https://github.com/e1-rahabok/Observability-NSX) | VMware | 2026-10-29 |
-| [Observability-vSAN](https://github.com/e1-rahabok/Observability-vSAN) | VMware | 2026-10-29 |
-| [Observability-VKS](https://github.com/e1-rahabok/Observability-VKS) | VMware | 2026-10-29 |
-| [Observability-Windows](https://github.com/e1-rahabok/Observability-Windows) | VMware | 2026-10-29 |
-| [VMW-Executive-Dashboard](https://github.com/e1-rahabok/VMW-Executive-Dashboard) | VMware | 2026-10-29 |
-| [VMW-Alerts-Overhaul](https://github.com/e1-rahabok/VMW-Alerts-Overhaul) | VMware | 2026-10-25 |
-| [VMW-MAS-AI-Guidelines](https://github.com/e1-rahabok/VMW-MAS-AI-Guidelines) | VMware | 2026-10-21 |
-| [VMW-Federated-VCF-Operations](https://github.com/e1-rahabok/VMW-Federated-VCF-Operations) | VMware | 2026-10-16 |
+| Name | Files | Last Updated |
+|------|-------|--------------|
+| [VCF-vCommunity-Adapter](https://github.com/e1-rahabok/VCF-vCommunity-Adapter) | 356 | 2026-10-30 |
+| [private-cloud-explained](https://github.com/e1-rahabok/private-cloud-explained) | 90 | 2026-10-30 |
+| [Observability-Linux](https://github.com/e1-rahabok/Observability-Linux) | 35 | 2026-10-30 |
+| [Observability-vSphere](https://github.com/e1-rahabok/Observability-vSphere) | 7 | 2026-10-30 |
+| [Observability-NSX](https://github.com/e1-rahabok/Observability-NSX) | 17 | 2026-10-29 |
+| [Observability-vSAN](https://github.com/e1-rahabok/Observability-vSAN) | 30 | 2026-10-29 |
+| [Observability-VKS](https://github.com/e1-rahabok/Observability-VKS) | 23 | 2026-10-29 |
+| [Observability-Windows](https://github.com/e1-rahabok/Observability-Windows) | 9 | 2026-10-29 |
+| [VMW-Executive-Dashboard](https://github.com/e1-rahabok/VMW-Executive-Dashboard) | 14 | 2026-10-29 |
+| [VMW-Alerts-Overhaul](https://github.com/e1-rahabok/VMW-Alerts-Overhaul) | 4 | 2026-10-25 |
+| [VMW-MAS-AI-Guidelines](https://github.com/e1-rahabok/VMW-MAS-AI-Guidelines) | 23 | 2026-10-21 |
+| [VMW-Federated-VCF-Operations](https://github.com/e1-rahabok/VMW-Federated-VCF-Operations) | 91 | 2026-10-16 |
 
 ## Non VMware Repositories
 
