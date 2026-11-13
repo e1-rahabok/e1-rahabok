@@ -1,68 +1,124 @@
 <div align="center">
 
-# 👋 Hey, I’m e1-rahabok
+# 🚀 e1-rahabok
 
-### I build tools and guides for private cloud, VMware, and observability.
+### Private cloud systems • VMware • Observability • Practical engineering
 
-**Turning complex infrastructure into something people can understand, operate, and improve.**
+<p>
+  <a href="https://github.com/e1-rahabok?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://isvara.io"><img src="https://img.shields.io/badge/isvara.io-Visit-2ea043?style=for-the-badge&logo=globe&logoColor=white" alt="isvara.io" /></a>
+  <a href="mailto:iwan.ang@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![Explore my repositories](https://img.shields.io/badge/Explore-My%20repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/e1-rahabok?tab=repositories)
-[![Visit isvara.io](https://img.shields.io/badge/Visit-isvara.io-2ea043?style=for-the-badge&logo=地球&logoColor=white)](https://isvara.io)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwan.ang@gmail.com)
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e1-rahabok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e1-rahabok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔧 Core capability
+
+I build and document systems that make complex infrastructure understandable and operable.
+
+- VMware / VCF / private cloud architecture
+- Observability across Linux, vSphere, NSX, vSAN, VKS, and Windows
+- Operational dashboards and alerts
+- Templates, tooling, and practical engineering documentation
+- Turning noisy platform knowledge into usable guidance
+
+<div align="center">
+
+| Domain | Focus | Outcome |
+|:--|:--|:--|
+| Private Cloud | VMware, VCF, ops practices | Clearer architecture and operations |
+| Observability | Monitoring, telemetry, health signals | Better signal, faster detection |
+| Automation | Practical tooling | Less friction, more repeatability |
+| Documentation | Explanations and runbooks | Easier onboarding and decisions |
 
 </div>
 
 ---
 
-## What I’m into
+## 🧠 What I work on
 
-| ☁️ Private cloud | 📈 Observability | 🌱 Outside the terminal |
-|:--|:--|:--|
-| VMware and VCF projects, practical tooling, and clear explanations | Linux, vSphere, NSX, vSAN, VKS, and Windows observability | Permaculture, solar, natural ponds, and learning home renovation |
+### VMware & Private Cloud
 
-## Featured work
-
-### 🧰 VMware & private cloud
-
-| Project | What you’ll find |
+| Project | Focus |
 |:--|:--|
-| [**VCF-vCommunity-Adapter**](https://github.com/e1-rahabok/VCF-vCommunity-Adapter) | A community adapter project for VMware Cloud Foundation |
-| [**private-cloud-explained**](https://github.com/e1-rahabok/private-cloud-explained) | Guides and material about private cloud |
-| [**VMW-Federated-VCF-Operations**](https://github.com/e1-rahabok/VMW-Federated-VCF-Operations) | Work focused on federated VCF operations |
-| [**VMW-Executive-Dashboard**](https://github.com/e1-rahabok/VMW-Executive-Dashboard) · [**VMW-Alerts-Overhaul**](https://github.com/e1-rahabok/VMW-Alerts-Overhaul) | Dashboards and alerting projects |
+| [**VCF-vCommunity-Adapter**](https://github.com/e1-rahabok/VCF-vCommunity-Adapter) | VMware Cloud Foundation and ecosystem integration |
+| [**private-cloud-explained**](https://github.com/e1-rahabok/private-cloud-explained) | Explanations of private cloud design and operations |
+| [**VMW-Federated-VCF-Operations**](https://github.com/e1-rahabok/VMW-Federated-VCF-Operations) | Federated VCF operational thinking |
+| [**VMW-Executive-Dashboard**](https://github.com/e1-rahabok/VMW-Executive-Dashboard) | Operational visibility and executive-friendly views |
+| [**VMW-Alerts-Overhaul**](https://github.com/e1-rahabok/VMW-Alerts-Overhaul) | Alerting improvements and signal quality |
+| [**VMW-MAS-AI-Guidelines**](https://github.com/e1-rahabok/VMW-MAS-AI-Guidelines) | AI-guided operational guidance |
 
-### 🔭 Observability collection
+### Observability
 
-Explore the projects by platform: [Linux](https://github.com/e1-rahabok/Observability-Linux) · [vSphere](https://github.com/e1-rahabok/Observability-vSphere) · [NSX](https://github.com/e1-rahabok/Observability-NSX) · [vSAN](https://github.com/e1-rahabok/Observability-vSAN) · [VKS](https://github.com/e1-rahabok/Observability-VKS) · [Windows](https://github.com/e1-rahabok/Observability-Windows)
+| Platform | Repository |
+|:--|:--|
+| Linux | [Observability-Linux](https://github.com/e1-rahabok/Observability-Linux) |
+| vSphere | [Observability-vSphere](https://github.com/e1-rahabok/Observability-vSphere) |
+| NSX | [Observability-NSX](https://github.com/e1-rahabok/Observability-NSX) |
+| vSAN | [Observability-vSAN](https://github.com/e1-rahabok/Observability-vSAN) |
+| VKS | [Observability-VKS](https://github.com/e1-rahabok/Observability-VKS) |
+| Windows | [Observability-Windows](https://github.com/e1-rahabok/Observability-Windows) |
+
+### Broader engineering work
 
 <details>
-<summary><strong>More projects</strong> — tools, experiments, and things beyond VMware</summary>
+<summary><strong>More projects</strong></summary>
 
-<br>
-
-| Project | A little context |
+| Project | Notes |
 |:--|:--|
 | [**isvara-2**](https://github.com/e1-rahabok/isvara-2) | Connected to [isvara.io](https://isvara.io) |
-| [**personal-website**](https://github.com/e1-rahabok/personal-website) | Personal site |
-| [**PowerManager**](https://github.com/e1-rahabok/PowerManager) | Dell laptop power management |
-| [**Books-to-PDF**](https://github.com/e1-rahabok/Books-to-PDF) | A project connected to isvara.io |
-| [**Web-App-Template**](https://github.com/e1-rahabok/Web-App-Template) | A template for vmware-private-cloud |
-| [**VMW-MAS-AI-Guidelines**](https://github.com/e1-rahabok/VMW-MAS-AI-Guidelines) | Guidelines for VMware MAS and AI |
-| [**Troubleshooting-Flow**](https://github.com/e1-rahabok/Troubleshooting-Flow) · [**Capacity-Planner**](https://github.com/e1-rahabok/Capacity-Planner) | Practical project work |
-| [**vmware-aria-operations-integration-sdk**](https://github.com/e1-rahabok/vmware-aria-operations-integration-sdk) | VMware Aria Operations integration SDK |
+| [**personal-website**](https://github.com/e1-rahabok/personal-website) | Personal site and digital presence |
+| [**PowerManager**](https://github.com/e1-rahabok/PowerManager) | Laptop power-related utility work |
+| [**Books-to-PDF**](https://github.com/e1-rahabok/Books-to-PDF) | Content conversion utility |
+| [**Web-App-Template**](https://github.com/e1-rahabok/Web-App-Template) | General app scaffolding |
+| [**Troubleshooting-Flow**](https://github.com/e1-rahabok/Troubleshooting-Flow) | Structured troubleshooting logic |
+| [**Capacity-Planner**](https://github.com/e1-rahabok/Capacity-Planner) | Planning and capacity reasoning |
+| [**vmware-aria-operations-integration-sdk**](https://github.com/e1-rahabok/vmware-aria-operations-integration-sdk) | VMware Aria integration work |
 
 </details>
 
-## Find me
+---
 
-Want to collaborate? I’m open to conversations around [isvara.io](https://isvara.io), private cloud, and observability.
+## 🌱 Outside the terminal
+
+I’m also learning and building real-world life systems:
+
+- Permaculture and regenerative thinking
+- Solar and practical sustainable energy
+- Natural pond systems and ecological design
+- Home renovation and turning spaces into useful, lived-in environments
+
+This keeps me grounded in how technology serves the real world, not just dashboards and abstractions.
+
+---
+
+## 📍 Connect
+
+I’m open to meaningful collaboration and conversations around private cloud, observability, and sustainable practical systems.
 
 - 🌐 [isvara.io](https://isvara.io)
-- ✉️ [iwan.ang@gmail.com](mailto:iwan.ang@gmail.com)
-- 🗂️ [Browse all repositories](https://github.com/e1-rahabok?tab=repositories)
+- 📧 [iwan.ang@gmail.com](mailto:iwan.ang@gmail.com)
+- 🗂️ [All repositories](https://github.com/e1-rahabok?tab=repositories)
+- 💬 [GitHub profile](https://github.com/e1-rahabok)
 
 <div align="center">
 
-*Thanks for stopping by — take a look around and say hello.*
+> “Build systems people can trust, explain, and improve.”
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=e1-rahabok&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
