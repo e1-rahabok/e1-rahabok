@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 e1-rahabok
+# Iwan 'e1' Rahabok
 
 ### Private cloud systems • VMware • Observability • Practical engineering
 
